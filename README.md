@@ -1,2 +1,2 @@
-# cloud-skill-journey
-My 6-month cloud computing &amp; DevOps learning journey
+# Linux Basics
+A collection of small Linux-based projects for learning and practicing core concepts.
